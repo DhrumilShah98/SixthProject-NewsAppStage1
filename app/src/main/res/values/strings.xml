@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GameSpot</string>
+
+    <string name="no_news_found">No News Found</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <string name="received_date_and_time_format">yyyy-MM-dd\'T\'HH:mm:ss\'Z\'</string>
+    <string name="displayed_date_format">LLL dd, yyy</string>
+    <string name="displayed_time_format">h:mm a</string>
+
+    <string name="method_GET">GET</string>
+    <string name="utf_8">UTF-8</string>
+
+    <string name="response_object">response</string>
+    <string name="results_array">results</string>
+    <string name="title">webTitle</string>
+    <string name="section_name">sectionName</string>
+    <string name="web_publication_date_and_time">webPublicationDate</string>
+    <string name="web_url">webUrl</string>
+    <string name="fields_object">fields</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="tags_array">tags</string>
+    <string name="web_title_in_tags_array">webTitle</string>
+
+    <string name="http_request_error_message">Problem making the HTTP request</string>
+    <string name="problem_building_url">Problem building the URL</string>
+    <string name="problem_retrieving_json_result">Problem retrieving the news JSON results.</string>
+    <string name="error_response_code_message">Error response code:</string>
+    <string name="problem_parsing_news_json_result">Problem parsing the news JSON results</string>
+    <string name="problem_passing_date_and_time">Problem in parsing Date or Time</string>
+
+    <string name="title_placeholder">Jurassic World Evaluation review - fun once the chaos begins</string>
+    <string name="section_placeholder">Games</string>
+    <string name="time_placeholder">12:10 AM</string>
+    <string name="date_placeholder">Jun 24, 2018</string>
+    <string name="author_placeholder">Author 1, Author 2, Author 3</string>
+
+    <string name="no_title_found">Title N/A</string>
+    <string name="no_section_found">Section N/A</string>
+    <string name="no_time_found">Time N/A</string>
+    <string name="no_date_found">Date N/A</string>
+    <string name="no_author_found">Author N/A</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--activity_news.xml dimensions-->
+    <dimen name="divider_height">1dp</dimen>
+
+    <!--news_single_list_item.xml dimensions-->
+    <dimen name="relative_layout_padding">6dp</dimen>
+    <dimen name="thumbnail_width">100dp</dimen>
+    <dimen name="thumbnail_height">75dp</dimen>
+    <dimen name="thumbnail_margin_end">6dp</dimen>
+    <dimen name="time_margin_start">8dp</dimen>
+</resources>
