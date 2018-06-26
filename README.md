@@ -3,7 +3,7 @@
 
 ### Name of App - "GameSpot"
 
-This app is using <a href="https://open-platform.theguardian.com/documentation/"> Guardians API</a>.
+This app is using <a href="https://open-platform.theguardian.com/documentation/" target="_blank"> Guardians API</a>.
 The app will display the latest news related to Games.<br><br>
 It will display Image, Title, Section, Published Date and Time, and Authors(If any) related to content.
 On click, it will open the article in the browser.
